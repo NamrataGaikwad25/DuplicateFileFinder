@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\DuplicateFileFinder\DuplicateFileFinder\bin\Debug\net10.0\DuplicateFileFinder.exe
+C:\Users\DELL\source\repos\DuplicateFileFinder\DuplicateFileFinder\bin\Debug\net10.0\DuplicateFileFinder.deps.json
+C:\Users\DELL\source\repos\DuplicateFileFinder\DuplicateFileFinder\bin\Debug\net10.0\DuplicateFileFinder.runtimeconfig.json
+C:\Users\DELL\source\repos\DuplicateFileFinder\DuplicateFileFinder\bin\Debug\net10.0\DuplicateFileFinder.dll
+C:\Users\DELL\source\repos\DuplicateFileFinder\DuplicateFileFinder\bin\Debug\net10.0\DuplicateFileFinder.pdb
+C:\Users\DELL\source\repos\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\net10.0\DuplicateFileFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\net10.0\DuplicateFileFinder.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\net10.0\DuplicateFileFinder.AssemblyInfo.cs
+C:\Users\DELL\source\repos\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\net10.0\DuplicateFileFinder.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\net10.0\DuplicateFileFinder.dll
+C:\Users\DELL\source\repos\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\net10.0\refint\DuplicateFileFinder.dll
+C:\Users\DELL\source\repos\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\net10.0\DuplicateFileFinder.pdb
+C:\Users\DELL\source\repos\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\net10.0\DuplicateFileFinder.genruntimeconfig.cache
+C:\Users\DELL\source\repos\DuplicateFileFinder\DuplicateFileFinder\obj\Debug\net10.0\ref\DuplicateFileFinder.dll
