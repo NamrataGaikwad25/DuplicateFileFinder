@@ -221,6 +221,32 @@ D:\TestFolder\C
 
 ---
 
+# Results
+
+## Test Case 1 — Basic Mode
+
+In Basic Mode, duplicate files are identified using only file names. The application scanned 7 supported source files and detected 3 duplicate groups: `X.cpp`, `Y.h`, and `Z.c`. Even if file contents are different, files with the same names are treated as duplicates in this mode.
+
+<img width="940" height="1065" alt="image" src="https://github.com/user-attachments/assets/e0fafbcb-dcd7-4c47-9c60-4138fbecc888" />
+
+---
+
+## Test Case 2 — Extended Mode (Same Content)
+
+In Extended Mode, duplicate files are identified using both file names and file content through SHA-256 hash comparison. The application detected 3 duplicate groups because all duplicate files had identical content across the project folders.
+
+<img width="940" height="1019" alt="image" src="https://github.com/user-attachments/assets/0c793104-da6f-438e-8902-89529ffd4581" />
+
+---
+
+## Test Case 3 — Extended Mode (Different Content)
+
+In this test case, the file `X.cpp` had the same name but different content in different folders. Therefore, the application detected only 2 duplicate groups: `Y.h` and `Z.c`. This confirms that Extended Mode correctly validates both file name and file content before marking files as duplicates.
+
+<img width="826" height="1029" alt="image" src="https://github.com/user-attachments/assets/3e7429c7-c4fe-4ce3-aa02-9486144fa9ad" />
+
+
+
 # Performance Considerations
 
 * Recursive scanning supports deep folder structures.
